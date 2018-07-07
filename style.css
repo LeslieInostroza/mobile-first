@@ -1,7 +1,23 @@
 .testimonio{
     text-align: center;
+    padding: 20px;
 }
 .contac{
-    background-color: salmon;
-    padding: 20px;
+    background-color: #ffa270;
+    padding: 25px;
+}
+.iconos{
+    text-align: center;
+}
+.twitter{
+padding: 10px;
+}
+.facebook{
+    padding: 10px;
+}
+.instagram{
+    padding: 10px;
+}
+.carrusel{
+    width: 100%;
 }
